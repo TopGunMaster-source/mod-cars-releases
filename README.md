@@ -10,8 +10,8 @@ every car is owned automatically, with no save editing.
 
 | File | For |
 |---|---|
-| **Mod Cars Manager 2.0.0 Setup.exe** | Most players. A Windows app that sets up the mod loader and Protection, installs the car packs safely with undo, and adds paint, colours, boost and hover per car. |
-| **Mod Cars Pack v1.5.0.zip** | Doing it by hand: the menu files, ModCarsKit and the 3 car packs. Instructions are in its README.txt. |
+| **Mod Cars Manager 2.0.1 Setup.exe** | Most players. A Windows app that sets up the mod loader and Protection, installs the car packs safely with undo, and adds paint, colours, boost and hover per car. |
+| **Mod Cars Pack v1.5.1.zip** | Doing it by hand: the menu files, ModCarsKit and the 3 car packs. Instructions are in its README.txt. |
 
 ## Requirements
 
@@ -23,7 +23,7 @@ every car is owned automatically, with no save editing.
 ## Install with the Manager
 
 1. Close the game.
-2. Run **Mod Cars Manager 2.0.0 Setup.exe**. Windows may warn because the installer isn't code-signed: click
+2. Run **Mod Cars Manager 2.0.1 Setup.exe**. Windows may warn because the installer isn't code-signed: click
    **More info**, then **Run anyway**.
 3. In the app's **Setup** tab, click **Get the official files** if anything is missing.
 4. In **Car packs**, click **Install...** on each pack.
@@ -34,8 +34,8 @@ every car is owned automatically, with no save editing.
 SHA-256 fingerprints (PowerShell: `Get-FileHash "<file>"`):
 
 ```
-24b10ff195ef0f93634c65cb0fd62b3dd0059f83260f9724c73c3bf39892e793  Mod Cars Manager 2.0.0 Setup.exe
-5eb78565297c11d48ee1574df0bd32b5bdc0ff3d785a80136f7d93be4714bd60  Mod Cars Pack v1.5.0.zip
+94608465c5494890206ddd2f444385c4b1299d8688cd22b170bd4bc38269fe6f  Mod Cars Manager 2.0.1 Setup.exe
+8636ebd686c8af8a36dca00989331e8e560f9d808d03e99b3e9ab0cea602d2af  Mod Cars Pack v1.5.1.zip
 ```
 
 ## Credits and licence
